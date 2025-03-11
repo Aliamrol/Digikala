@@ -5,6 +5,6 @@ import androidx.compose.runtime.Composable
 import androidx.navigation.NavHostController
 
 @Composable
-fun SplashScreen(navController: NavHostController){
-    Text("SplashScreen")
+fun BasketScreen(navController: NavHostController) {
+    Text("BasketScreen")
 }
